@@ -1,14 +1,6 @@
 
 ***** Project Euler Solutions by James Wang *****
-Updated: 2/23/2013
+Updated: 3/13/2013
 
 
-These solutions are provided for public perusal for those who are interested in seeing solutions by others to Project Euler problems. I welcome feedback from those who want to comment on my current solutions (I certainly know they can be improved).
-
-For those who have not completed the problems already: You can look at these solutions if you choose (or from many other places on the internet), but I can personally attest that it is more enriching and enjoyable to work through the challenge of the problems.
-
-
-Languages:
-
-Python
-Clojure (soon to come)
+Code doodles solving problems on Project Euler. Feedback welcome!
